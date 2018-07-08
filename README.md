@@ -1,5 +1,5 @@
 # XPS
-the old boot installer of Dell XPS
+the old BIOS installer of Dell XPS
 
 There always will be some error when XPS which use Linux wake up.  
 After my long inquiry and experiment, I am sure it's a problem have relations with the version of bios and luck.  
